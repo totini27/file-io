@@ -1,0 +1,1 @@
+{"Firstname":"Totini","Lastname":"Sumaya","Gender":"Female","DOB":"12-27-1998","Religion":"Islam","Presentaddress":"Cox'sBazar","Permanentaddress":"Cox'sBazar","Phone":"01881777102","Email":"sbntotini@gmail.com","Username":"totini27","Password":"T#####"}
